@@ -1,0 +1,49 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+venv/*
+
+# macOS
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Model/task files
+*.task
+*.tflite
+
+# Build / dist
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Config files generated at runtime
+config.json
+
+# Compiled Python files
+*.so
+*.pyd
+
+# Cache folders
+.cache/
+.mediapipe/
+
+# Camera calibration / temp outputs
+temp/
+output/
+frames/
