@@ -201,15 +201,3 @@ acceleration
 ## 📜 License
 MIT License — free to modify and share.
 
----
-
-## ⭐ Want More Features?
-Available extensions:
-- Drag gesture (hold pinch)
-- Scroll gesture
-- Zoom gesture
-- Two-hand mode
-- AI-based gesture classifier
-
-Just ask: **“add scroll gesture”** or **“add drag gesture”**.
-
